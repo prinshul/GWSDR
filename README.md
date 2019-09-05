@@ -1,4 +1,4 @@
-# DMM-DR
+# Video-to-video adaptation using Distributional mode matching(DMM) and Directional Regularization(DR)
 
 tensorflow = 1.14.0
 python = 3.5 or higher
