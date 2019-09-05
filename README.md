@@ -29,4 +29,6 @@ few penultimate layers of I3D pre-trained on Imagenet and Kinetics dataset. Use 
 Evaluate on test data using weights of final trained model on flow-stream using *evaluate.py*. Use baseline RGB and re-trained flow-stream model
 for evaluation.
 
+DMM-DR using TSN will be released soon.
+
 
