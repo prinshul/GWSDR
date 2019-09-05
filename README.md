@@ -5,7 +5,7 @@ python = 3.5 or higher
 keras = 2.2.5
 
 ## Data Preprocessing
-Generate optical flow and RGB frames for the videos using *Preprocess_threads.py*. Split data into train-test so that 
+Generate optical flow(using TVL1 algorithm) and RGB frames for the videos using *Preprocess_threads.py*. Split data into train-test so that 
 train data has fewer samples as compared to test. *utils.py* can be used to create data split.
 
 ## Baseline training
