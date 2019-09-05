@@ -4,18 +4,18 @@ tensorflow = 1.14.0
 python = 3.5 or higher
 keras = 2.2.5
 
-## Data Preprocessing:
+## Data Preprocessing
 Generate optical flow and RGB frames for the videos using Preprocess_threads.py. Split data into train-test so that 
 train data has fewer samples as compared to test. utils.py can be used to create data split.
 
-## Baseline training:
+## Baseline training
 Used I3D to train baseline classifier. train_flow.py is used to train flow stream and train_rgb.py train RGB stream of a two
 stream network.
 
-## Distributional mode matching(DMM):
+## Distributional mode matching(DMM)
 Use baseline model(their weights) to match modes of the source using cluster_flow_clips_2s_mode_matched.py file.
 
-## Action localization:
+## Action localization
 If source and target datasets video samples differ in time duration, actions can be localized in a bigger source video using 
 create_2s_clips.py.
 
