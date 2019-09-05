@@ -1,8 +1,8 @@
 # Video-to-video adaptation using Distributional mode matching(DMM) and Directional Regularization(DR)
 
-tensorflow = 1.14.0
-python = 3.5 or higher
-keras = 2.2.5
+- tensorflow = 1.14.0
+- python = 3.5 or higher
+- keras = 2.2.5
 
 ## Data Preprocessing
 Generate optical flow(using TVL1 algorithm) and RGB frames for the videos using *Preprocess_threads.py*. Split data into train-test so that 
