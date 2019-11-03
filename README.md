@@ -1,4 +1,4 @@
-# Video-to-video adaptation using Distributional mode matching(DMM) and Directional Regularization(DR)
+# Guided weak supervision using distributional mode matching for actionrecognition in screening for Autism Spectrum Disorder
 
 - tensorflow = 1.14.0
 - python = 3.5 or higher
