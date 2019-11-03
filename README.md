@@ -31,9 +31,14 @@ for evaluation.
 DMM-DR using TSN will be released soon.
 
 ## Results
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
+| Model/Method | Accuracy |
+| :---:         |     :---:      |          
+| I3D   | 69.3%    | 
+| TSN    |   68.0%     | 
+| I3D+DMM     |  74.3%     | 
+| TSN+DMM    | 71.6%  | 
+| I3D+DR     | 71.3%  | 
+| TSN+DR      | 70.1% | 
+| I3D+DMM+DR    | 75.1% | 
+| TSN+DMM+DR      | 72.5% | 
 
