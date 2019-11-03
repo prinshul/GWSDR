@@ -30,4 +30,10 @@ for evaluation.
 
 DMM-DR using TSN will be released soon.
 
+## Results
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 
