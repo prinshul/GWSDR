@@ -5,8 +5,7 @@
 - keras = 2.2.5
 
 ## Data Preprocessing
-Generate optical flow(using TVL1 algorithm) and RGB frames for the videos using *Preprocess_threads.py*. Split data into train-test so that 
-train data has fewer samples as compared to test. *utils.py* can be used to create data split.
+Generate optical flow(using TVL1 algorithm) and RGB frames for the videos using *Preprocess_threads.py*. *utils.py* can be used to create data split.
 
 ## Baseline training
 Use I3D to train baseline classifier. *train_flow.py* is used to train flow stream and *train_rgb.py* train RGB stream of a two stream network.
