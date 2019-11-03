@@ -33,8 +33,8 @@ DMM-DR using TSN will be released soon.
 ## Results
 | Model/Method | Accuracy |
 | :---:         |     :---:      |          
-| I3D[1](https://arxiv.org/pdf/1705.07750.pdf)   | 69.3%    | 
-| TSN    |   68.0%     | 
+| [I3D](https://arxiv.org/pdf/1705.07750.pdf)   | 69.3%    | 
+| [TSN](https://wanglimin.github.io/papers/WangXWQLTV_ECCV16.pdf)    |   68.0%     | 
 | I3D+DMM     |  74.3%     | 
 | TSN+DMM    | 71.6%  | 
 | I3D+DR     | 71.3%  | 
