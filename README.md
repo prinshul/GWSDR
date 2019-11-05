@@ -1,4 +1,4 @@
-# Action recognition through guided weak supervision with scarce data for skill assessment of children with Autism Spectrum Disorder
+# Guiding weak supervision in data-scarce action recognition for skill assessment of children with autism
 
 - tensorflow = 1.14.0
 - python = 3.5 or higher
