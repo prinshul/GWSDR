@@ -1,4 +1,4 @@
-# Guided weak supervision using distributional mode matching for action recognition in screening for Autism Spectrum Disorder
+# Action recognition on scarce data through guided weak supervision for skill assessment of children with Autism Spectrum Disorder
 
 - tensorflow = 1.14.0
 - python = 3.5 or higher
