@@ -10,7 +10,7 @@ Generate optical flow(using TVL1 algorithm) and RGB frames for the videos using 
 ## Baseline training
 Use I3D to train baseline classifier. *train_flow.py* is used to train flow stream and *train_rgb.py* train RGB stream of a two stream network.
 
-## Distributional mode matching(DMM)
+## Guided weak supervision(GWS)
 Use baseline model(their weights) to match modes of the source using *cluster_flow_clips_2s_mode_matched.py* file.
 
 ## Action localization
@@ -35,10 +35,10 @@ DMM-DR using TSN will be released soon.
 | :---:         |     :---:      |          
 | [I3D](https://arxiv.org/pdf/1705.07750.pdf)   | 69.3%    | 
 | [TSN](https://wanglimin.github.io/papers/WangXWQLTV_ECCV16.pdf)    |   68.0%     | 
-| I3D+DMM     |  74.3%     | 
-| TSN+DMM    | 71.6%  | 
+| I3D+GWS    |  74.3%     | 
+| TSN+GWS    | 71.6%  | 
 | I3D+DR     | 71.3%  | 
 | TSN+DR      | 70.1% | 
-| I3D+DMM+DR    | 75.1% | 
-| TSN+DMM+DR      | 72.5% | 
+| I3D+GWS+DR    | 75.1% | 
+| TSN+GWS+DR      | 72.5% | 
 
