@@ -1,4 +1,4 @@
-# Guided weak supervision for action recognition with scarce data to assess skills of children with autism
+# Video-to-Video adaptation for action recognition via distributional mode matching for functional skill assessment of children with Autism
 
 - tensorflow = 1.14.0
 - python = 3.5 or higher
@@ -10,7 +10,7 @@ Generate optical flow(using TVL1 algorithm) and RGB frames for the videos using 
 ## Baseline training
 Use I3D to train baseline classifier. *train_flow.py* is used to train flow stream and *train_rgb.py* train RGB stream of a two stream network.
 
-## Guided weak supervision(GWS)
+## Distributional Mode Matching(DMM)
 Use baseline model(their weights) to match modes of the source using *cluster_flow_clips_2s_mode_matched.py* file.
 
 ## Action localization
