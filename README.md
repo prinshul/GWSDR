@@ -12,6 +12,7 @@ Use I3D to train baseline classifier. *train_flow.py* is used to train flow stre
 
 ## Guided Weak Supervision(GWS)
 Use baseline model(their weights) to match modes of the source using *cluster_flow_clips_2s_mode_matched.py* file.
+*visualization* folder contain examples depicting concept of matching classes in optical flow space.
 
 ## Action localization
 If source and target datasets video samples differ in time duration, actions can be localized in a bigger source video using 
