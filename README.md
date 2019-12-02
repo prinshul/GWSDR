@@ -43,3 +43,11 @@ GWS-DR using TSN will be released soon.
 | I3D+GWS+DR    | 75.1% | 
 | TSN+GWS+DR      | 72.5% | 
 
+If you use this code for your research, please consider citing:
+@article{pandey2019guided,
+  title={Guided weak supervision for action recognition with scarce data to assess skills of children with autism},
+  author={Pandey, Prashant and AP, Prathosh and Kohli, Manu and Pritchard, Josh},
+  journal={arXiv preprint arXiv:1911.04140},
+  year={2019}
+}
+
