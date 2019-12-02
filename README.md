@@ -49,15 +49,10 @@ If you find our work useful, please consider citing our paper.
 
 ```javascript
 @article{pandey2019guided,
-
   title={Guided weak supervision for action recognition with scarce data to assess skills of children with autism},
-  
   author={Pandey, Prashant and AP, Prathosh and Kohli, Manu and Pritchard, Josh},
-  
   journal={arXiv preprint arXiv:1911.04140},
-  
   year={2019}
-  
 }
 ```
 
