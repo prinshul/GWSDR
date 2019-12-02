@@ -47,6 +47,7 @@ GWS-DR using TSN will be released soon.
 
 If you find our work useful, please consider citing our paper.
 
+```javascript
 @article{pandey2019guided,
 
   title={Guided weak supervision for action recognition with scarce data to assess skills of children with autism},
@@ -58,4 +59,5 @@ If you find our work useful, please consider citing our paper.
   year={2019}
   
 }
+```
 
