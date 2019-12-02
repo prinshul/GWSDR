@@ -45,7 +45,7 @@ GWS-DR using TSN will be released soon.
 
 ## Citation
 
-If you use this code, please consider citing:
+If you find our work useful, please consider citing our paper.
 
 @article{pandey2019guided,
 
