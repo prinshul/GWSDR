@@ -44,12 +44,25 @@ GWS-DR using TSN will be released soon.
 | TSN+GWS+DR      | 72.5% | 
 
 ## Citation
-If you use this code for your research, please consider citing:
+If you use this code, please consider citing:
 
-@article{pandey2019guided,
-  title={Guided weak supervision for action recognition with scarce data to assess skills of children with autism},
-  author={Pandey, Prashant and AP, Prathosh and Kohli, Manu and Pritchard, Josh},
-  journal={arXiv preprint arXiv:1911.04140},
-  year={2019}
-}
+---
+references:
+  - id: fenner2012a
+    title: One-click science marketing
+    author:
+      - family: Fenner
+        given: Martin
+    container-title: Nature Materials
+    volume: 11
+    URL: "http://dx.doi.org/10.1038/nmat3283"
+    DOI: 10.1038/nmat3283
+    issue: 4
+    publisher: Nature Publishing Group
+    page: 261-263
+    type: article-journal
+    issued:
+      year: 2012
+      month: 3
+---
 
