@@ -48,11 +48,14 @@ GWS-DR using TSN will be released soon.
 If you find our work useful, please consider citing our paper.
 
 ```
-@article{pandey2019guided,
+@inproceedings{pandey2020guided,
   title={Guided weak supervision for action recognition with scarce data to assess skills of children with autism},
-  author={Pandey, Prashant and AP, Prathosh and Kohli, Manu and Pritchard, Josh},
-  journal={arXiv preprint arXiv:1911.04140},
-  year={2019}
+  author={Pandey, Prashant and Prathosh, AP and Kohli, Manu and Pritchard, Josh},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={01},
+  pages={463--470},
+  year={2020}
 }
 ```
 
