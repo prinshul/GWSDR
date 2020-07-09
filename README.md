@@ -1,4 +1,4 @@
-Code for the paper "Guided Weak Supervision for Action Recognition with Scarce Data to Assess Skills of Children with Autism", AAAI 2020.
+Code for the paper "Guided Weak Supervision for Action Recognition with Scarce Data to Assess Skills of Children with Autism", AAAI 2020[Oral].
 
 - tensorflow = 1.14.0
 - python = 3.5 or higher
